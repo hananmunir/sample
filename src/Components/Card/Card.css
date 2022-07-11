@@ -1,0 +1,17 @@
+.wrapper-card {
+  height: 100%;
+  width: 30%;
+  margin: 5rem auto;
+  border-radius: 1rem;
+  padding: 2rem;
+  border: 1px solid gray;
+}
+.input-fields-container {
+  width: 100%;
+  max-height: 100%;
+
+  margin-top: 2rem;
+  display: flex;
+
+  flex-direction: column;
+}
